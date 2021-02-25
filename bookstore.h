@@ -61,7 +61,7 @@ private:
                 merge(cur, curblo.next);
                 if (!nxtblo.next) break;
                 cur = nxtblo.next;
-                ds.seekg((cur - 1 * b) + 2 * i);
+                ds.seekg((cur - 1 )*b + 2 * i);
                 ds.read(cd(curblo), b);
                 if(!curblo.next) break;
                 ds.seekg((curblo.next - 1) * b + 2 * i);
