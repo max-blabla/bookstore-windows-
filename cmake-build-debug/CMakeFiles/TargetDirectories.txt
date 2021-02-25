@@ -1,0 +1,3 @@
+D:/bookstore(windows)/cmake-build-debug/CMakeFiles/bookstore.dir
+D:/bookstore(windows)/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/bookstore(windows)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
